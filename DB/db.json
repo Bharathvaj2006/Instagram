@@ -1,0 +1,228 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "userId": 101,
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "location": "New York, USA",
+      "caption": "Sunsets hit different 🌅",
+      "imageUrl": "https://picsum.photos/id/10/600/600",
+      "likes": 1243,
+      "isLiked": true,
+      "commentsCount": 34,
+      "hashtags": [
+        "sunset",
+        "nature",
+        "photography"
+      ],
+      "createdAt": "2026-06-17T18:30:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "username": "emma_w",
+          "text": "Amazing shot! 😍",
+          "createdAt": "2026-06-17T18:45:00Z"
+        },
+        {
+          "id": 2,
+          "username": "alex99",
+          "text": "Beautiful colors.",
+          "createdAt": "2026-06-17T19:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userId": 102,
+      "username": "travelwithmia",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "location": "Bali, Indonesia",
+      "caption": "Paradise found 🏝️",
+      "imageUrl": "https://picsum.photos/id/20/600/600",
+      "likes": 5621,
+      "isLiked": false,
+      "commentsCount": 87,
+      "hashtags": [
+        "travel",
+        "bali",
+        "vacation"
+      ],
+      "createdAt": "2026-06-16T10:15:00Z",
+      "comments": [
+        {
+          "id": 3,
+          "username": "wanderer",
+          "text": "Adding this to my bucket list!",
+          "createdAt": "2026-06-16T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "userId": 103,
+      "username": "foodie_life",
+      "profileImage": "https://randomuser.me/api/portraits/women/5.jpg",
+      "location": "Tokyo, Japan",
+      "caption": "Ramen night 🍜",
+      "imageUrl": "https://picsum.photos/id/30/600/600",
+      "likes": 983,
+      "isLiked": true,
+      "commentsCount": 19,
+      "hashtags": [
+        "food",
+        "ramen",
+        "japanesefood"
+      ],
+      "createdAt": "2026-06-15T20:00:00Z",
+      "comments": []
+    },
+    {
+      "id": "4",
+      "userId": 104,
+      "username": "fitness_jake",
+      "profileImage": "https://randomuser.me/api/portraits/men/7.jpg",
+      "location": "Los Angeles, USA",
+      "caption": "No excuses. Just results 💪",
+      "imageUrl": "https://picsum.photos/id/40/600/600",
+      "likes": 2140,
+      "isLiked": false,
+      "commentsCount": 42,
+      "hashtags": [
+        "fitness",
+        "gym",
+        "motivation"
+      ],
+      "createdAt": "2026-06-14T07:30:00Z",
+      "comments": [
+        {
+          "id": 4,
+          "username": "fitgirl",
+          "text": "Keep pushing!",
+          "createdAt": "2026-06-14T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "userId": 105,
+      "username": "techgeek",
+      "profileImage": "https://randomuser.me/api/portraits/men/12.jpg",
+      "location": "San Francisco, USA",
+      "caption": "Late-night coding session ☕💻",
+      "imageUrl": "https://picsum.photos/id/50/600/600",
+      "likes": 756,
+      "isLiked": true,
+      "commentsCount": 11,
+      "hashtags": [
+        "coding",
+        "developer",
+        "tech"
+      ],
+      "createdAt": "2026-06-13T23:45:00Z",
+      "comments": []
+    }
+  ],
+  "profile": {
+    "userId": 101,
+    "username": "john_inba",
+    "profileImage": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  "suggestions": [
+    {
+      "userId": 101,
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "id": "RiQybCGQQ-M"
+    },
+    {
+      "userId": 102,
+      "username": "travelwithmia",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "id": "lHXNqjfygV0"
+    },
+    {
+      "userId": 103,
+      "username": "foodie_life",
+      "profileImage": "https://randomuser.me/api/portraits/women/5.jpg",
+      "id": "qCidRevdB3k"
+    },
+    {
+      "userId": 104,
+      "username": "fitness_jake",
+      "profileImage": "https://randomuser.me/api/portraits/men/7.jpg",
+      "id": "_8XOIIrzHdQ"
+    },
+    {
+      "userId": 105,
+      "username": "techgeek",
+      "profileImage": "https://randomuser.me/api/portraits/men/12.jpg",
+      "id": "8K_klHSRMME"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "userId": 101,
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "imageUrl": "https://picsum.photos/id/10/600/600"
+    },
+    {
+      "id": "2",
+      "userId": 102,
+      "username": "travelwithmia",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "imageUrl": "https://picsum.photos/id/20/600/600"
+    },
+    {
+      "id": "3",
+      "userId": 103,
+      "username": "foodie_life",
+      "profileImage": "https://randomuser.me/api/portraits/women/5.jpg",
+      "imageUrl": "https://picsum.photos/id/30/600/600"
+    },
+    {
+      "id": "4",
+      "userId": 104,
+      "username": "fitness_jake",
+      "profileImage": "https://randomuser.me/api/portraits/men/7.jpg",
+      "imageUrl": "https://picsum.photos/id/40/600/600"
+    },
+    {
+      "id": "5",
+      "userId": 105,
+      "username": "techgeek",
+      "profileImage": "https://randomuser.me/api/portraits/men/12.jpg",
+      "imageUrl": "https://picsum.photos/id/50/600/600"
+    }
+  ],
+  "followers": [
+    {
+      
+      "userId": 101,
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "id": "nOtmUlFKTuY"
+    },
+    {
+      "userId": 102,
+      "username": "travelwithmia",
+      "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "id": "gOdUacVOpAw"
+    },
+    {
+      "userId": 103,
+      "username": "foodie_life",
+      "profileImage": "https://randomuser.me/api/portraits/women/5.jpg",
+      "id": "eBXS_LaWsBg"
+    },
+    {
+      "userId": 101,
+      "username": "john_doe",
+      "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "id": "ByjqevXs2zo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

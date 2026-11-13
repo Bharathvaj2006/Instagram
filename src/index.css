@@ -1,0 +1,59 @@
+.w-20{
+  width: 20%;
+}
+.w-30{
+  width: 30%;
+}
+.w-st{
+  width: 350px;
+}
+.insta-text{
+  width: 130px;
+}
+.bi{
+  margin-right: 10px;
+}
+.story{
+  height: 80px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.dp{
+  height: 30px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.pst{
+  width: 300px;
+}
+.sbm{
+  margin: 0px 3px;
+}
+.suggestions .dp{
+  margin-top: 0px !important;
+}
+.gradient-border{
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg,#ff00ff,#ff6600,#ffcc00);
+}
+.story-dp{
+  width: 40px;
+}
+.story p{
+  width: 55px;
+}
+.profile{
+  width: 100px;
+  height: 100px;
+}
+.hov{
+  cursor: pointer;
+}
+.foll{
+  margin-right: 50%;
+}
